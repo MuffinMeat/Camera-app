@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3b93cc84c",
+  "policyUUID": "b93cc84c",
+  "bucketName": "cameraapp8857d65c76684badb46ad982951fc1ff",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger794236b2",
+  "groupAccess": {}
+}

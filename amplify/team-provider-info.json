@@ -32,6 +32,18 @@
     "categories": {
       "auth": {
         "cameraapp5fce090d": {}
+      },
+      "api": {
+        "cameraapp": {}
+      },
+      "function": {
+        "S3Trigger794236b2": {
+          "deploymentBucketName": "amplify-cameraapp-no-152256-deployment",
+          "s3Key": "amplify-builds/S3Trigger794236b2-477a6132467030632b4f-build.zip"
+        }
+      },
+      "storage": {
+        "s3b93cc84c": {}
       }
     }
   }
